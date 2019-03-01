@@ -1,6 +1,13 @@
-# Ford GoBike Dataset Exploration
+## Introduction
+ford-goBike-dataset-exploration is a project doing exploratory visualization on the bike trip dataset. This dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in 2017. The dataset can be downloaded from https://www.fordgobike.com/system-data.
 
-This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in 2017. The dataset can be downloaded from https://www.fordgobike.com/system-data.
+## Table of Contents
+- `ford-gobike-dateset-exploration-part1.ipynb`: The Jupyter Notebook version of exploratory visualization
+- `ford-gobike-dateset-exploration-part1.html`: The html version of exploratory visualization
+- `ford-gobike-dateset-exploration-part2.ipynb`: The Jupyter Notebook version of explanatory visualization 
+- `ford-gobike-dateset-exploration-part2.html`: The html version of explanatory visualization 
+- `ford-gobike-dateset-exploration-slides.html`: The html presentation of the key finding and recommendation
+- `2017-fordgobike-tripdata.csv.zip`: The compressed original dataset
 
 ## Summary of Findings
 ### Univariate Findings
